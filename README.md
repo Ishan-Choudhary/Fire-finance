@@ -1,6 +1,7 @@
 # Fire finance development setup
-
-1. Create a .env file containing the following keys
+1. Clone the repository
+2. Enter the directory
+3. Create a .env file containing the following keys
 ```
 VITE_FIREBASE_API_KEY=
 VITE_AUTH_DOMAIN=
